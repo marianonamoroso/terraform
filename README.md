@@ -1,5 +1,5 @@
 # HashiCorp Certified Terraform Associate
-<h3>AWS HCTA</h3> <br>
+<h3>HCTA</h3> <br>
 This repository contains my trainings and exercises carried on preparation for HashiCorp Certified Terraform Associate.
 <table>
   <tr>
