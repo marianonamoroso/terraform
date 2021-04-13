@@ -18,7 +18,7 @@ This repository contains my trainings and exercises carried on preparation for H
     <td>02</td>
     <td>HashiCorp Certified: Terraform Associate Practice Exam 2021</td>
     <td>https://www.udemy.com/course/terraform-associate-practice-exam/</td>
-    <td>Pending</td>
+    <td>Done</td>
   </tr>
    
    
