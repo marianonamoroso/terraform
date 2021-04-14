@@ -16,8 +16,14 @@ This repository contains my trainings and exercises carried on preparation for H
     <td>Done</td>
    <tr>
     <td>02</td>
-    <td>HashiCorp Certified: Terraform Associate Practice Exam 2021</td>
+    <td>Bryan Krausen - HashiCorp Certified: Terraform Associate Practice Exam 2021</td>
     <td>https://www.udemy.com/course/terraform-associate-practice-exam/</td>
+    <td>Done</td>
+  </tr>
+     <tr>
+    <td>03</td>
+    <td>Quiz Expert - HashiCorp Certified: Terraform Associate Practice Exam 2021</td>
+    <td>https://www.udemy.com/course/hashicorp-certified-terraform-associate-2020/</td>
     <td>Done</td>
   </tr>
    
